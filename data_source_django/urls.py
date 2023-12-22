@@ -19,6 +19,5 @@ from django.urls import path
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('data/', admin.site.urls),
-     git push origin HEAD
+    path('data/', admin.site.urls)
 ]
